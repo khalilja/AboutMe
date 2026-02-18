@@ -1,63 +1,55 @@
-<h1 align="center">Hey there 👋, I'm Khalil</h1>
-<h3 align="center">💻 Passionate Developer | Problem Solver | Lifelong Learner</h3>
+# Khalil Jaouani
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+building+cool+things;Always+learning%2C+always+growing" alt="Typing SVG" />
-</p>
+**Reverse Engineering Enthusiast**  
+Breaking things down to understand how they really work.
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning new technologies and sharpening my skills
-- 💡 I love turning ideas into real-world applications
-- 🤝 Open to collaborating on open-source projects
-- ⚡ Fun fact: I'm obsessed with clean code and great UI/UX
+I'm Khalil — a curious mind with a deep interest in reverse engineering, low-level systems, and understanding software from the inside out. I spend most of my time analyzing binaries, dissecting protocols, and digging into how things work beneath the surface.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,github,vscode&theme=dark" />
-</p>
+- Interested in: malware analysis, binary exploitation, CTF challenges, and systems security
+- Always reading: documentation, disassembly, and anything that goes deep
+- Currently studying at ISSAT Mateur
 
 ---
 
-## 📊 GitHub Stats
+## Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilja&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**Languages**
+- C / C++
+- Python
+- x86/x64 Assembly
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+**RE & Security Tools**
+- IDA Pro / Ghidra
+- GDB / pwndbg
+- Wireshark
+- Radare2
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalilja&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+**General**
+- Linux
+- Git
+- VS Code
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalilja&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
-</p>
+## GitHub Stats
 
-<p align="center">✨ <i>Thanks for visiting! Drop a ⭐ on something you like!</i> ✨</p>
+&lt;p align="left"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true" width="48%" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=gruvbox&hide_border=true" width="40%"/&gt;
+&lt;/p&gt;
+
+---
+
+## Contact
+
+- **Email:** [khalil.jaouani@issatm.ucar.tn](mailto:khalil.jaouani@issatm.ucar.tn)
+- **LinkedIn:** [khalil--jaouani](https://www.linkedin.com/in/khalil--jaouani/)
+- **X (Twitter):** [@KHALILJAOU44081](https://x.com/KHALILJAOU44081)
+
+---
+
+&lt;sub&gt;Profile views: &lt;img src="https://komarev.com/ghpvc/?username=khalilja&style=flat-square&color=grey" alt="profile views"/&gt;&lt;/sub&gt;
