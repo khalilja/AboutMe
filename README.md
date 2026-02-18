@@ -37,10 +37,10 @@ I'm Khalil — a curious mind with a deep interest in reverse engineering, low-l
 
 ## GitHub Stats
 
-&lt;p align="left"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true" width="48%" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=gruvbox&hide_border=true" width="40%"/&gt;
-&lt;/p&gt;
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=gruvbox&hide_border=true" width="40%"/>
+</p>
 
 ---
 
@@ -48,8 +48,4 @@ I'm Khalil — a curious mind with a deep interest in reverse engineering, low-l
 
 - **Email:** [khalil.jaouani@issatm.ucar.tn](mailto:khalil.jaouani@issatm.ucar.tn)
 - **LinkedIn:** [khalil--jaouani](https://www.linkedin.com/in/khalil--jaouani/)
-- **X (Twitter):** [@KHALILJAOU44081](https://x.com/KHALILJAOU44081)
-
----
-
-&lt;sub&gt;Profile views: &lt;img src="https://komarev.com/ghpvc/?username=khalilja&style=flat-square&color=grey" alt="profile views"/&gt;&lt;/sub&gt;
+- **X:** [@KHALILJAOU44081](https://x.com/KHALILJAOU44081)
