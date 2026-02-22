@@ -37,7 +37,7 @@ I'm Khalil — a curious mind with a deep interest in reverse engineering, low-l
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true](https://streak-stats.demolab.com?user=khalilja&theme=highcontrast&hide_border=true&background=020c07&stroke=00ff88&ring=00e5ff&fire=00ff88&currStreakLabel=00ff88&sideLabels=3a6b4a&dates=3a6b4a))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=gruvbox&hide_border=true)
 
