@@ -37,12 +37,7 @@ I'm Khalil — a curious mind with a deep interest in reverse engineering, low-l
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilja&show_icons=true&theme=gruvbox&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=khalilja&theme=gruvbox&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilja&layout=compact&theme=gruvbox&hide_border=true)
-
 ## Contact
 
 - **Email:** [khalil.jaouani@issatm.ucar.tn](mailto:khalil.jaouani@issatm.ucar.tn)
